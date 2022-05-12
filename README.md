@@ -8,7 +8,7 @@ ini adalah project flutter dengan menerapkan BLoC Design Pattern (Business Logic
 
 # Preview
 Berikut adalah preview aplikasi:<br />
-<img src="https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview.gif" width="250" height="400" />
+<img src="https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview.gif" width="250" height="500" />
 
 # Instalasi
 1. Clone repository
