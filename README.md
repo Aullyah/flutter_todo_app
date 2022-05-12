@@ -1,11 +1,11 @@
 # flutter_todo_app
 ini adalah project flutter dengan menerapkan BLoC Design Pattern (Business Logic Component) secara sederhana. User interface aplikasi ini terinspirasi dari design milik Alex Arutuynov https://dribbble.com/shots/14153121.
 
-#Preview
-Berikut adalah preview aplikasi:
-![Preview](https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview.gif?raw=true "Preview aplikasi")
+# Preview
+Berikut adalah preview aplikasi:<br />
+![Preview](https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview.gif?raw=true=360x400 "Preview aplikasi")
 
-#Instalasi
+# Instalasi
 1. Clone repository
 ```
 git clone https://github.com/Aullyah/flutter_todo_app.git
