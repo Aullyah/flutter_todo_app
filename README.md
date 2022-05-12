@@ -3,7 +3,10 @@ ini adalah project flutter dengan menerapkan BLoC Design Pattern (Business Logic
 
 # Preview
 Berikut adalah preview aplikasi:<br />
-![Preview](https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview.gif?raw=true "Preview aplikasi")
+![Preview](https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview01.png?raw=true "Preview aplikasi")
+![Preview](https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview02.png?raw=true "Preview aplikasi")
+![Preview](https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview03.png?raw=true "Preview aplikasi")
+![Preview](https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview04.png?raw=true "Preview aplikasi")
 
 # Instalasi
 1. Clone repository
