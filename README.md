@@ -1,17 +1,22 @@
 # flutter_todo_app
+ini adalah project flutter dengan menerapkan BLoC Design Pattern (Business Logic Component) secara sederhana. User interface aplikasi ini terinspirasi dari design milik Alex Arutuynov https://dribbble.com/shots/14153121.
 
-A new Flutter project.
+# Preview
+Berikut adalah preview aplikasi:<br />
+![Preview](https://github.com/Aullyah/flutter_todo_app/blob/main/assets/preview.gif?raw=true "Preview aplikasi")
 
-## Getting Started
+# Instalasi
+1. Clone repository
+```
+git clone https://github.com/Aullyah/flutter_todo_app.git
+```
 
-This project is a starting point for a Flutter application.
+2. Import package
+```
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_todo_app
+3.Jalankan program
+```
+flutter run
+```
